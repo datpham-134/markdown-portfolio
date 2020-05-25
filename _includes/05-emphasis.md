@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I'm currently studying Software Engineering major in **FPT University**. I'm interested in ***Java, JavaScript*** and I learn to become **Front-End** developer. In my free time I eat ***street food, watch movies and play chess*** with my friends.
